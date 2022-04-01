@@ -1,0 +1,45 @@
+
+Copyright (c) 1998-2005, Electronic Tools Company
+MAKING INTEROPERABILITY A REALITY. All rights reserved.
+The Interface Technology (TM) includes:
+UNPUBLISHED, LICENSED SOFTWARE, 
+CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS 
+THE PROPERTY OF ELECTRONIC TOOLS CO. OR ITS LICENSORS.
+
+EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program 10.5_1.067 built Apr 30 2005
+
+Started on Wed Mar 16 07:16:50 2022
+
+Reading config file C:\OrCAD\OrCAD_10.5\tools\capture\CAP2EDI.CFG
+
+Processing EDIF 2 0 0  file D:\DR\Schematic\NDC7002\NDC7002N.edf
+
+This EDIF file has unrecognized origin.
+
+EDIF 200 parsing finished
+
+
+Design has no schematics => OrCAD Schematic will not be created
+Library D:\DR\SCHEMATIC\NDC7002\NDC7002N.OLB is created
+              Design Unit is equal to 0.00001000 inches
+              Calculated pinSpacing is equal to : 0.10000001 inches
+              Calculated grid resolution is equal to: 10000 Design Units
+Design file has no schematics
+Converting Unreferenced Symbols from Design libraries
+Writing D:\DR\SCHEMATIC\NDC7002\NDC7002N.INI file
+Library D:\DR\SCHEMATIC\NDC7002\NDC7002N.OLB is being saved
+   ADVICE: If you DON'T LIKE the result:
+    Do another orcadwrite run using one of the following sets of OrCAD writer options:
+        'Min pin to pin spacing'=0.05000 inch(s), 'Grid'=5000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02500 inch(s), 'Grid'=2500 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02000 inch(s), 'Grid'=2000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
+             results in 0 hotspots out of grid
+
+Finished on Wed Mar 16 07:16:50 2022
+
+
+0 errors detected, 0 warnings detected

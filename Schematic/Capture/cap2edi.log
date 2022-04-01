@@ -1,0 +1,37 @@
+
+Copyright (c) 1998-2005, Electronic Tools Company
+MAKING INTEROPERABILITY A REALITY. All rights reserved.
+The Interface Technology (TM) includes:
+UNPUBLISHED, LICENSED SOFTWARE, 
+CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS 
+THE PROPERTY OF ELECTRONIC TOOLS CO. OR ITS LICENSORS.
+
+OrCAD Capture to EDIF 2 0 0 Schematic Conversion Program 10.5_1.067 built Apr 30 2005
+
+Started on Tue Mar 08 07:23:24 2022
+
+Reading config file C:\OrCAD\OrCAD_10.5\doc\doc.cfg
+Error:  syntax errors in config file
+  line 1: No section for option Documentation
+
+
+orcadread :Converting file D:\DR\SCHEMATIC\CAPTURE\LORA.DSN 
+Converting SchematicView   SCHEMATIC1 
+	Converting elements on  page PAGE1
+		Converting Parts
+Converting SchematicView   BME280 
+	Converting elements on  page BME280
+		Converting Parts
+		converting Globals of Page BME280 of SchematicView BME280
+		Converting Buses and Nets of Schematic View BME280 
+		converting Globals of Page PAGE1 of SchematicView SCHEMATIC1
+		Converting Buses and Nets of Schematic View SCHEMATIC1 
+
+Writing EDIF: D:\DR\Schematic\Capture\LORA.EDF
+.............................................................
+
+
+Finished on Tue Mar 08 07:23:24 2022
+
+
+1 error detected, 0 warnings detected

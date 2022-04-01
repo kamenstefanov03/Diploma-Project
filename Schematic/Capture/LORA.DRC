@@ -1,0 +1,136 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: BME280
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    ADDR/MISO
+    SCL/SCK
+    CS
+    VCC
+    SDA/MOSI
+    GND
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    GND
+
+Reporting Net Names
+    SCL/SCK
+    N61659
+    N63669
+    N63422
+    N62680
+    VCC
+    SDA/MOSI
+    N71932
+    CS
+    GND
+    ADDR/MISO
+
+Checking Visible Unconnected Power Pins
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: Voltage regulator
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    IN
+    OUT
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    GND
+
+Reporting Net Names
+    GND
+    IN
+    OUT
+
+Checking Visible Unconnected Power Pins
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Checking for Compatibility with SDT
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    GND
+
+Reporting Net Names
+    N122491
+    GND
+    VCC
+    N64186
+    N64585
+    N64470
+    N64202
+    N122508
+
+Checking Visible Unconnected Power Pins
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch

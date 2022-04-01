@@ -1,0 +1,65 @@
+AutoECO Report
+FILE-A: D:\DR\SCHEMATIC\CAPTURE\LORA-3.MAX
+FILE-B: D:\DR\SCHEMATIC\CAPTURE\LORA.MNL
+If "*EOF*" immediately follows, no changes were made
+Component J1 -- overriding attributes
+Component J2 -- overriding attributes
+Adding component U1
+Component C7 -- overriding attributes
+Component C8 -- overriding attributes
+Component J3 -- overriding attributes
+Component C3 -- overriding attributes
+Component C5 -- overriding attributes
+Component Q3 -- overriding attributes
+Component Q1 -- overriding attributes
+Component C6 -- overriding attributes
+Component C4 -- overriding attributes
+Component U3 -- overriding attributes
+Component U2 -- overriding attributes
+Component Q2 -- overriding attributes
+Component C2 -- overriding attributes
+Component J6 -- overriding attributes
+Component R3 -- overriding attributes
+Component R4 -- overriding attributes
+Component R5 -- overriding attributes
+Component R6 -- overriding attributes
+Component R1 -- overriding attributes
+Component R7 -- overriding attributes
+Component R8 -- overriding attributes
+Adding component Q4
+Component R2 -- overriding attributes
+Component C1 -- overriding attributes
+Component J5 -- overriding attributes
+Net N64186 -- overriding attributes
+Net N63669 -- overriding attributes
+Net N62680 -- overriding attributes
+Net N63422 -- overriding attributes
+Net GND -- overriding attributes
+Net VCC -- overriding attributes
+Net N71932 -- overriding attributes
+Net N122491 -- overriding attributes
+Net N122508 -- overriding attributes
+Net N61659 -- overriding attributes
+Net ADDR/MISO -- overriding attributes
+Net CS -- overriding attributes
+Net N64202 -- overriding attributes
+Deleting J4.1 from net GND
+Deleting U11.3 from net GND
+Adding U1.3 to net GND
+Deleting Q2.1 from net VCC
+Adding Q4.1 to net VCC
+Deleting Q2.6 from net N71932
+Adding Q4.6 to net N71932
+Deleting U11.1 from net N122491
+Adding U1.1 to net N122491
+Deleting U11.2 from net N122508
+Adding U1.2 to net N122508
+Deleting Q2.5 from net CS
+Adding Q4.5 to net CS
+Deleting component U11
+Deleting component J4
+Deleting component D1
+Deleting net N64585
+Deleting net N64470
+*EOF*
+No errors found

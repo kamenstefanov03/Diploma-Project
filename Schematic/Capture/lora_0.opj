@@ -1,0 +1,81 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\lora_0.dbk"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "D:\DR\SCHEMATIC\CAPTURE\LORA_0.DRC")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\lora_0.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (PORTRIGHT-L
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\lora_0.dbk")
+      (Path "Design Resources" ".\lora_0.dbk" "SCHEMATIC1")
+      (Path "Design Resources" ".\lora_0.dbk" "BME280")
+      (Path "Outputs")
+      (Select "Design Resources" ".\lora_0.dbk"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 912 -8 -31 0 200 0 593"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1343 -5 934")
+        (Scroll "0 0")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path "D:\DR\SCHEMATIC\CAPTURE\LORA_0.DBK")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1683 104 736")
+        (Scroll "0 0")
+        (Zoom "124")
+        (Occurrence "/BME280"))
+      (Path "D:\DR\SCHEMATIC\CAPTURE\LORA_0.DBK")
+      (Schematic "BME280")
+      (Page "BME280"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 1348 1886 -8 940")
+        (Scroll "505 0")
+        (Zoom "108")
+        (Occurrence "/Voltage regulator"))
+      (Path "D:\DR\SCHEMATIC\CAPTURE\LORA_0.DBK")
+      (Schematic "Voltage regulator")
+      (Page "Vregulator"))))
